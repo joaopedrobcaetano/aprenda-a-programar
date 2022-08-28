@@ -1,0 +1,1 @@
+Meu nome é João Pedro, estou começando a aprender programação, e este repositório serve para fazer as atividades do curso *Aprenda a Programar* do **ITuring**.
